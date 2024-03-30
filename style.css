@@ -1,0 +1,38 @@
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.index {
+    background-color: beige;
+}
+
+.link {
+    font-size: 25px;
+    color: cadetblue;
+}
+
+img {
+    width:200px;
+    height: auto;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: #6a59d7;
+}
+
+.recipe {
+    background-color: rgb(26, 59, 79);
+    color: beige;
+}
+
+.recipe .head {
+    color: beige;
+}
+
+ol, ul, p {
+    font-size: 20px;
+    color: darkgrey;
+}
